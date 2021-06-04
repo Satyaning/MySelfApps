@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="almost_margin_splash">42dp</dimen>
+    <dimen name="field_margin_splash">8dp</dimen>
+    <dimen name="walkthrough_margin_end">20dp</dimen>
+    <dimen name="walkthrough_margin_bottom">15dp</dimen>
+    <dimen name="text_sp">14sp</dimen>
+</resources>

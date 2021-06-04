@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BiodataApp</string>
+    <string name="title_splash">Biodata</string>
+    <string name="title_splash1">Satya</string>
+    <string name="deskripsi">
+        Saya merupakan mahasiswa teknik informatika berumur 21 tahun,
+        memiliki sifat yang cukup pendiam tetapi senang bergaul dan mudah mendapatkan teman baru.
+        Kemudian saya juga termasuk orang yang mau bekerja keras dan tidak mudah menyerah ketika gagal.
+        Masih memiliki sifat manja tetapi hanya kepada ibu saya dan teman terdekat.
+        Saya memulai pendidikan di UNIKOM karena hawa disana cukup sejuk dibandingkan tempat tinggal yang saya tempati.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
